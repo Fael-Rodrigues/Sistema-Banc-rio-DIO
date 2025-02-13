@@ -1,5 +1,5 @@
 # Sistema-Bancario-DIO
-Criar um sistema bancário com as transações : sacar, depositar e visualizar extrato.
+Projeto de criação de um sistema bancário com as transações : sacar, depositar e visualizar extrato.
 
 Desafio da trilha Python DIO
 Objetivo
