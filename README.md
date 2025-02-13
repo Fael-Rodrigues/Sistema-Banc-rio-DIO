@@ -1,12 +1,18 @@
 # Sistema-Bancario-DIO
-Projeto de criação de um sistema bancário com as transações : sacar, depositar e visualizar extrato.
+Projeto de criação de um sistema bancário com as transações : sacar, depositar e visualizar extrato;
 
 Desafio da trilha Python DIO
+
 Objetivo
+
 Criar um sistema bancário com as transações:
-•	sacar, depositar e visualizar extrato;
+
+•	sacar, depositar e visualizar extrato,
+
 •	criar usuário e criar conta atual.
+
 Desafio
+
 Fomos contratados por um grande banco para desenvolver seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python.
 Para a primeira versão do sistema devemos implementar apenas 3 operações: depósito, saque e extrato.
 Para segunda versão precisamos deixar o código modularizado com funções e introduzir novas funcionalidades: criar usuário do banco e criar conta corrente, que vincula com o usuário.
